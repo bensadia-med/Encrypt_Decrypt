@@ -7,14 +7,14 @@ also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, 
 ## Vigenere Cipher
 is a method of encrypting alphabetic text by using a series of interwoven Caesar ciphers based on the letters of a keyword. It is a form of polyalphabetic substitution
 
-## Transpotions Cipher
+## Transpositions Cipher
 is a method of encryption by which the positions held by units of plaintext (which are commonly characters or groups of characters) are shifted according to a regular system, so that the ciphertext constitutes a permutation of the plaintext. That is, the order of the units is changed (the plaintext is reordered). Mathematically a bijective function is used on the characters' positions to encrypt and an inverse function to decrypt.
 
 ## Diffie Hellman
 is a method of securely exchanging cryptographic keys over a public channel and was one of the first public-key protocols as originally conceptualized by Ralph Merkle and named after Whitfield Diffie and Martin Hellman. DH is one of the earliest practical examples of public key exchange implemented within the field of cryptography
 
 
-![hey]
+
 ## Scripts used in the Program:
     Cesar Algorithm: Cesar_Final_Version.py
     Diffie_Hellman: Diffie_Hellman_Final_Version.py
